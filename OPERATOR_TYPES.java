@@ -1,0 +1,4 @@
+
+public enum OPERATOR_TYPES {
+	BINARY, UNARY
+}
